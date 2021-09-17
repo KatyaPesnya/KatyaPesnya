@@ -14,7 +14,7 @@ Contacts:
 - [Facebook](https://www.facebook.com/profile.php?id=100072465814654)
 
 
-###My stats:
-[![Katya GitHub stats](https://github-readme-stats.vercel.app/api?username=KatyaPesnya)](https://github.com/KatyaPesnya/github-readme-stats)
+### My stats:
+- [![Katya GitHub stats](https://github-readme-stats.vercel.app/api?username=KatyaPesnya)](https://github.com/KatyaPesnya/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaPesnya)](https://github.com/KatyaPesnya/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaPesnya)](https://github.com/KatyaPesnya/github-readme-stats)
