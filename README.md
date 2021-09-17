@@ -8,8 +8,8 @@
 - I want to work with experienced colleagues.
 - I want to write clean and readable code.
 
--->
-Contacts:
+
+### Contacts:
 - EkaterinaPesnya@yandex.ru
 - [Facebook](https://www.facebook.com/profile.php?id=100072465814654)
 
