@@ -8,5 +8,5 @@
 
 -->
 Contacts:
-EkaterinaPesnya@yandex.ru
-[Facebook](https://www.facebook.com/profile.php?id=100072465814654)
+- EkaterinaPesnya@yandex.ru
+- [Facebook](https://www.facebook.com/profile.php?id=100072465814654)
