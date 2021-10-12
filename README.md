@@ -12,6 +12,8 @@
 ### Contacts:
 - EkaterinaPesnya@yandex.ru
 - [Facebook](https://www.facebook.com/profile.php?id=100072465814654)
+- 8 (999) 376-90-20
+- telegram: @katyapesnya
 
 
 ### My stats:
